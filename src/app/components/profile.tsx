@@ -27,11 +27,10 @@ export default function Profile() {
             <Box className="profile">
               <br />
               <ul>
-                <li><Text size="7" weight="bold" color="purple">Contact.</Text></li>
+                <li><Text size="7" weight="bold" color="purple">Blog.</Text></li>
                 <br />
-                <li><Text size="1" style={{ display: "flex" }}><EnvelopeClosedIcon />&nbsp; cesc231@naver.com</Text></li>
-                <br />
-                <li><Text size="1" style={{ display: "flex" }}><PersonIcon />&nbsp; 010-5201-7704</Text></li>
+                <li><Link size="1" style={{ display: "flex" }}><EnvelopeClosedIcon />&nbsp; https://velog.io/@htkim97/posts</Link></li>
+                
               </ul>
               <br />
               <br />
