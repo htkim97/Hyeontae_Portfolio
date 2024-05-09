@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel&logoColor=ffff"/>
 </p>
 
-![image](https://github.com/htkim97/Hyeontae_portfolio/assets/52130444/37e2760d-6842-4734-af64-bf967607308f)
 
 
 **LINK** :
