@@ -7,7 +7,9 @@
     <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel&logoColor=ffff"/>
 </p>
 
-![스크린샷 2023-11-02 143118](https://github.com/htkim97/Hyeontae_portfolio/assets/52130444/31d837ff-5305-43d1-82af-9b9bafc8f332)
+![image](https://github.com/htkim97/Hyeontae_portfolio/assets/52130444/37e2760d-6842-4734-af64-bf967607308f)
+
+
 **LINK** :
 <https://hyeontae-portfolio.vercel.app/>
 
