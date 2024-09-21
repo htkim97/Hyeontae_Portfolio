@@ -7,10 +7,10 @@ import "../../styles/page.scss";
 import '@radix-ui/themes/styles.css';
 import {Section, Grid, } from '@radix-ui/themes'
 
-import Profile from "./components/profile";
-import AboutMe from "./components/aboutMe";
-import Experience from "./components/experience";
-import Project from "./components/SideProject";
+import Profile from "../components/profile";
+import AboutMe from "../components/AboutMe/AboutMe";
+import Experience from "../components/Experiences/Experience";
+import Project from "../components/SideProject";
 export default function Home() {
 
 

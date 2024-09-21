@@ -1,8 +1,8 @@
 import {Separator, Link, Flex, Box, Section, Text, Grid, Badge } from '@radix-ui/themes'
-import "../../../styles/page.scss";
-export default function aboutMe() {
+import styles from "./AboutMe.module.scss";
+export default function AboutMe() {
   return(
-    <div className="aboutMe">
+    <div className={styles.aboutMe}>
             <Text size="6" weight="bold" color="purple">About Me.</Text>
             <br />
             <br />
