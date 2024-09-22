@@ -14,8 +14,8 @@ import Project_2 from './bizbee/Project2';
 
 export default function Experience() {
   return (
-    <Box className="p-2 mt-10">
-      <Text  size="6" weight="bold" color="purple" align="center">
+    <Box className="p-2 mt-10" style={{textAlign:"center"}}>
+      <Text  size="6" weight="bold" color="purple" >
         Experience.
       </Text>
 
