@@ -74,15 +74,23 @@ export default function Project_2() {
       </Flex>
       <br />
       <br />
-      <Flex style={{ margin: "0 10% 0 22%" }}>
+      <div style={{ margin: "0 10% 0 22%" }}>
         <Text size="2" style={{ display: "flex" }}>
           <NotionLogoIcon />
           &nbsp;
           <a href="https://www.figma.com/design/8dJnlfn6ByynHxsHFwJN1E/Untitled?node-id=0-1&t=7C1ATik2tjsYBfsL-1">
-             사내 works 시스템 가이드 해당 피그마 (문서함, 결재함){" "}
+             사내 works 시스템 가이드 해당 피그마 (결재함){" "}
           </a>
         </Text>
-      </Flex>
+        <br/>
+        <Text size="2" style={{ display: "flex" }}>
+          <NotionLogoIcon />
+          &nbsp;
+          <a href="https://www.figma.com/design/m4ISV5b8K9scLPEFTo0iOI/Untitled?node-id=0-1&t=9OanXPlR6gBQuExb-1">
+             사내 works 시스템 가이드 해당 피그마 (문서함){" "}
+          </a>
+        </Text>
+      </div>
     </section>
   );
 }
