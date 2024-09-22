@@ -13,7 +13,7 @@ export default function Project() {
             <br />
             <br />
             <section className=''>
-
+{/* 
             <Flex style={{ margin: "0 20% 0 20%" }}>
                 <ul>
                     
@@ -29,8 +29,8 @@ export default function Project() {
 
                     </li>
                 </ul>
-            </Flex>
-            <Flex style={{ margin: "2% 20% 0 20%" }}>
+            </Flex> */}
+            {/* <Flex style={{ margin: "2% 20% 0 20%" }}>
                 <Text as="p" mb="1" size="3">
                 NextJS 토이프로젝트 "회고 다이어리"입니다.
                 </Text>
@@ -43,7 +43,7 @@ export default function Project() {
             </section>
             <br />
             <br />
-            <section className=''>
+            <section className=''> */}
 
             <Flex style={{ margin: "0 20% 0 20%" }}>
                 <ul>
